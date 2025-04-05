@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Task_1.dir/src/binary_search.cpp.o CMakeFiles/Task_1.dir/src/main.cpp.o CMakeFiles/Task_1.dir/src/sorter.cpp.o -o Task_1 

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/build",
+  "command": "/usr/bin/g++  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/include -g -std=gnu++11 -o CMakeFiles/Task_1.dir/src/binary_search.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/binary_search.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/binary_search.cpp",
+  "output": "CMakeFiles/Task_1.dir/src/binary_search.cpp.o"
+},
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/build",
+  "command": "/usr/bin/g++  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/include -g -std=gnu++11 -o CMakeFiles/Task_1.dir/src/main.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/main.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/main.cpp",
+  "output": "CMakeFiles/Task_1.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/build",
+  "command": "/usr/bin/g++  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/include -g -std=gnu++11 -o CMakeFiles/Task_1.dir/src/sorter.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/sorter.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_1/src/sorter.cpp",
+  "output": "CMakeFiles/Task_1.dir/src/sorter.cpp.o"
+}
+]
