@@ -43,6 +43,6 @@ void interpolationSort(std::vector<int>& arr) {
     std::cout << "Начальный массив: ";
     printArray(arr);
     interpolationSortUtil(arr, 0, arr.size() - 1);
-    std::cout << "Отсортированный массив: ";
+    std::cout << "\nОтсортированный массив: ";
     printArray(arr);
 }

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Task_2.dir/src/main.cpp.o CMakeFiles/Task_2.dir/src/binpow.cpp.o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -o Task_2 
+/usr/bin/clang++-18 -g CMakeFiles/Task_2.dir/src/main.cpp.o CMakeFiles/Task_2.dir/src/binpow.cpp.o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -o Task_2 

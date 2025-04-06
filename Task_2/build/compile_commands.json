@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build",
+  "command": "/usr/bin/clang++-18  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/include -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src -g -std=gnu++17 -o CMakeFiles/Task_2.dir/src/main.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp",
+  "output": "CMakeFiles/Task_2.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build",
+  "command": "/usr/bin/clang++-18  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/include -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src -g -std=gnu++17 -o CMakeFiles/Task_2.dir/src/binpow.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp",
+  "output": "CMakeFiles/Task_2.dir/src/binpow.cpp.o"
+},
+{
+  "directory": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build",
+  "command": "/usr/bin/clang++-18  -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/include -I/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src -g -std=gnu++17 -o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp",
+  "file": "/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp",
+  "output": "CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o"
+}
+]

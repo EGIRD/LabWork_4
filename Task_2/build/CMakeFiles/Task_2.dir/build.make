@@ -73,43 +73,43 @@ CMakeFiles/Task_2.dir/src/main.cpp.o: CMakeFiles/Task_2.dir/flags.make
 CMakeFiles/Task_2.dir/src/main.cpp.o: /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp
 CMakeFiles/Task_2.dir/src/main.cpp.o: CMakeFiles/Task_2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Task_2.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/main.cpp.o -MF CMakeFiles/Task_2.dir/src/main.cpp.o.d -o CMakeFiles/Task_2.dir/src/main.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/main.cpp.o -MF CMakeFiles/Task_2.dir/src/main.cpp.o.d -o CMakeFiles/Task_2.dir/src/main.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp
 
 CMakeFiles/Task_2.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Task_2.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp > CMakeFiles/Task_2.dir/src/main.cpp.i
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp > CMakeFiles/Task_2.dir/src/main.cpp.i
 
 CMakeFiles/Task_2.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Task_2.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp -o CMakeFiles/Task_2.dir/src/main.cpp.s
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/main.cpp -o CMakeFiles/Task_2.dir/src/main.cpp.s
 
 CMakeFiles/Task_2.dir/src/binpow.cpp.o: CMakeFiles/Task_2.dir/flags.make
 CMakeFiles/Task_2.dir/src/binpow.cpp.o: /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp
 CMakeFiles/Task_2.dir/src/binpow.cpp.o: CMakeFiles/Task_2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Task_2.dir/src/binpow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/binpow.cpp.o -MF CMakeFiles/Task_2.dir/src/binpow.cpp.o.d -o CMakeFiles/Task_2.dir/src/binpow.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/binpow.cpp.o -MF CMakeFiles/Task_2.dir/src/binpow.cpp.o.d -o CMakeFiles/Task_2.dir/src/binpow.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp
 
 CMakeFiles/Task_2.dir/src/binpow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Task_2.dir/src/binpow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp > CMakeFiles/Task_2.dir/src/binpow.cpp.i
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp > CMakeFiles/Task_2.dir/src/binpow.cpp.i
 
 CMakeFiles/Task_2.dir/src/binpow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Task_2.dir/src/binpow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp -o CMakeFiles/Task_2.dir/src/binpow.cpp.s
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/binpow.cpp -o CMakeFiles/Task_2.dir/src/binpow.cpp.s
 
 CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o: CMakeFiles/Task_2.dir/flags.make
 CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o: /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp
 CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o: CMakeFiles/Task_2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -MF CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o.d -o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -MF CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o.d -o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.o -c /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp
 
 CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp > CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.i
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp > CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.i
 
 CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp -o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.s
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_2/src/interpolation_sort.cpp -o CMakeFiles/Task_2.dir/src/interpolation_sort.cpp.s
 
 # Object files for target Task_2
 Task_2_OBJECTS = \

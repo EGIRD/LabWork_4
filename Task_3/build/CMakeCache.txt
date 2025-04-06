@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Task_3
+CMAKE_PROJECT_NAME:STATIC=Project
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -216,13 +216,13 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-Task_3_BINARY_DIR:STATIC=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3/build
+Project_BINARY_DIR:STATIC=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3/build
 
 //Value Computed by CMake
-Task_3_IS_TOP_LEVEL:STATIC=ON
+Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-Task_3_SOURCE_DIR:STATIC=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3
+Project_SOURCE_DIR:STATIC=/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3
 
 
 ########################
