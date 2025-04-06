@@ -116,6 +116,91 @@ depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+#=============================================================================
+# Target rules for targets named Task_3_PR
+
+# Build rule for target.
+Task_3_PR: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Task_3_PR
+.PHONY : Task_3_PR
+
+# fast build rule for target.
+Task_3_PR/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/build
+.PHONY : Task_3_PR/fast
+
+src/calculate_medium.o: src/calculate_medium.cpp.o
+.PHONY : src/calculate_medium.o
+
+# target to build an object file
+src/calculate_medium.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/calculate_medium.cpp.o
+.PHONY : src/calculate_medium.cpp.o
+
+src/calculate_medium.i: src/calculate_medium.cpp.i
+.PHONY : src/calculate_medium.i
+
+# target to preprocess a source file
+src/calculate_medium.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/calculate_medium.cpp.i
+.PHONY : src/calculate_medium.cpp.i
+
+src/calculate_medium.s: src/calculate_medium.cpp.s
+.PHONY : src/calculate_medium.s
+
+# target to generate assembly for a file
+src/calculate_medium.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/calculate_medium.cpp.s
+.PHONY : src/calculate_medium.cpp.s
+
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
+
+# target to build an object file
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
+
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
+
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
+
+src/sorting.o: src/sorting.cpp.o
+.PHONY : src/sorting.o
+
+# target to build an object file
+src/sorting.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/sorting.cpp.o
+.PHONY : src/sorting.cpp.o
+
+src/sorting.i: src/sorting.cpp.i
+.PHONY : src/sorting.i
+
+# target to preprocess a source file
+src/sorting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/sorting.cpp.i
+.PHONY : src/sorting.cpp.i
+
+src/sorting.s: src/sorting.cpp.s
+.PHONY : src/sorting.s
+
+# target to generate assembly for a file
+src/sorting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Task_3_PR.dir/build.make CMakeFiles/Task_3_PR.dir/src/sorting.cpp.s
+.PHONY : src/sorting.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -124,6 +209,16 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... Task_3_PR"
+	@echo "... src/calculate_medium.o"
+	@echo "... src/calculate_medium.i"
+	@echo "... src/calculate_medium.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/sorting.o"
+	@echo "... src/sorting.i"
+	@echo "... src/sorting.s"
 .PHONY : help
 
 
