@@ -1,1 +1,0 @@
-/usr/bin/clang++-18 -g CMakeFiles/Task_3_PR.dir/src/calculate_medium.cpp.o CMakeFiles/Task_3_PR.dir/src/main.cpp.o CMakeFiles/Task_3_PR.dir/src/sorting.cpp.o -o Task_3_PR 

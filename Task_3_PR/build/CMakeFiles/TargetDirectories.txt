@@ -1,3 +1,0 @@
-/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3_PR/build/CMakeFiles/Task_3_PR.dir
-/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3_PR/build/CMakeFiles/edit_cache.dir
-/home/yagor/Документы/453505/ОАиП_2/LabWork_4/Task_3_PR/build/CMakeFiles/rebuild_cache.dir
